@@ -10,6 +10,6 @@
 
 ## Our beloved members:
 - MML: The Chairman/CEO of everything MML
-* @mml on MML+: https://plus.mmltech.net/@mml
-* @MML83132852 on Twitter: https://twitter.com/@MML83132852
-* @thatyoutubermml on YouTube: https://youtube.com/@thatyoutubermml
+  - @mml on MML+: https://plus.mmltech.net/@mml
+  - @MML83132852 on Twitter: https://twitter.com/@MML83132852
+  - @thatyoutubermml on YouTube: https://youtube.com/@thatyoutubermml
